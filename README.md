@@ -28,5 +28,5 @@ To use this Random Color Generator locally, simply clone the repository and open
 ```
  
 
-<a href="https://github.com/13-Bhupendra/Random_color_generator-JS-/tree/main/Random_color_generator" > https://github.com/user-attachments/assets/b24f5507-0817-4bf2-80b9-bd24dd064b2f  </a>
+  https://github.com/user-attachments/assets/b24f5507-0817-4bf2-80b9-bd24dd064b2f 
 
